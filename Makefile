@@ -1,6 +1,6 @@
 NAME=MSR-design
 AUX=$(NAME).aux
-INTERMEDIATES=$(NAME).bbl $(NAME).blg $(NAME).log $(NAME).out
+INTERMEDIATES=$(NAME).bbl $(NAME).blg $(NAME).log $(NAME).out $(NAME).acn $(NAME).glo $(NAME).ist
 
 all: $(NAME).pdf
 
